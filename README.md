@@ -201,20 +201,6 @@ Options:
 |OPENBOX|MATE|
 |![img](images/openbox/look_1/desktop.png)|![img](images/mate/look_1/desktop.png)|
 
-### Browsers:
-![Firefox and Chromium](images/apps/firefox-chromium.png)
-
-### Image Editors:
-![Inkscape and GIMP](images/apps/inkscape-gimp.png)
-
-### Code Editors:
-![Geany and VS Code](images/apps/geany-vscode.png)
-
-### Media Players:
-![Parole and VLC](images/apps/parole-vlc.png)
-
----
-
 ## Advanced Topics:
 
 ### Wine:
